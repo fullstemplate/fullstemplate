@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Amat!
 👩🏻‍💻 Software Engineer shares about my journey and learnings in technology<br/>
 👩🏻‍🎓 Studying [Information Engineering](https://www.stikma.ac.id/) at Stikma College, Malang Indonesia<br/>
-🎨 Make video editing in Deavinci Resolve [example](https://www.instagram.com/daeng_ngarru/#), Design in Canva<br/>
+🎨 Make video editing in Deavinci Resolve [example](https://www.instagram.com/reel/C3uyLS7vpAr/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==), Design in Canva<br/>
 💭 Currently learning back end developer on Youtube [one](https://www.youtube.com/@deaafrizal), [two](https://www.youtube.com/@ProgrammerZamanNow), [three](https://www.youtube.com/@sandhikagalihWPU/featured)!<br/>
 
 
