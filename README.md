@@ -2,7 +2,7 @@
 👩🏻‍💻 Software Engineer shares about my journey and learnings in technology<br/>
 👩🏻‍🎓 Studying [Information Engineering](https://www.stikma.ac.id/) at Stikma College, Malang Indonesia<br/>
 🎨 Make video editing in Deavinci Resolve [example](https://www.instagram.com/reel/C3uyLS7vpAr/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==), Design in Canva<br/>
-💭 Currently learning back end developer on Youtube [here](https://www.youtube.com/@deaafrizal), [here](https://www.youtube.com/@fahreziadha),and [here](https://www.youtube.com/@sandhikagalihWPU/featured)!<br/>
+💭 Currently learning back end developer on Youtube [Cuy Universe](https://www.youtube.com/@deaafrizal), [@fahreziadha](https://www.youtube.com/@fahreziadha),and [WPU](https://www.youtube.com/@sandhikagalihWPU/featured)!<br/>
 <!--📩 If you need anything, send me a message [hey@rhmt.my.id](mailto:hey@rhmt.my.id) -->
 
 
